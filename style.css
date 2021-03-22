@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+.img-responsive{
+    height: 50%;
+}
+#myCarousel{
+    background-color: aquamarine;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+}
